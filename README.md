@@ -24,4 +24,4 @@ General Idea is to beased on layers and input/output
 - Create output layer to handle targets
 - Build Virtually any model you like in between
 
-![] Keras-learning/Capture.PNG
+![](Keras-learning/Capture.PNG)
