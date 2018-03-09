@@ -23,3 +23,5 @@ General Idea is to beased on layers and input/output
 - Create first Layer to handle input tensor
 - Create output layer to handle targets
 - Build Virtually any model you like in between
+
+![] Keras-learning/Capture.PNG
