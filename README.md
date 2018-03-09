@@ -14,6 +14,6 @@
 
 1simple to start and going
 
--Written in python, easy to expand
+*Written in python, easy to expand
 
--Deep enougth to build serious models
+*Deep enougth to build serious models
