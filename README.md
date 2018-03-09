@@ -1,6 +1,6 @@
 # Keras-learning
 
-## Deep Learning: Keras Short Tutorial[youtubelink](https://www.youtube.com/watch?v=Tp3SaRbql4k)
+## [Deep Learning: Keras Short Tutorial](https://www.youtube.com/watch?v=Tp3SaRbql4k)
 
 ### What is Kers?
 
@@ -17,7 +17,7 @@
 * Written in python, easy to expand
 * Deep enougth to build serious models
 
-###General Design
+### General Design
 General Idea is to beased on layers and input/output
 - Prepare your inputs and ouput tensors
 - Create first Layer to handle input tensor
