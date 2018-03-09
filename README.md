@@ -26,3 +26,18 @@ General Idea is to beased on layers and input/output
 
 
 ![](Keras-learning/Capture.PNG)
+
+### Layers and Layers
+Keras has pre built layers.
+- Regular dense, MLP type
+Create a layers:
+keras.layers.core.Dernse(output_dim.
+  init
+  activation
+  weights
+  ...)
+  
+- Recurrent layers, LSTM,GRU, etc
+- 1D Convolutional layers
+- 2D Convolutional layers
+
