@@ -5,6 +5,6 @@
 -Designed to be straightforward yet extensive
 -Build on top of either Theano as newly TensorFlow
 #Why use Keras
--simple to start and going
+1simple to start and going
 -Written in python, easy to expand
 -Deep enougth to build serious models
