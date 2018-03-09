@@ -1,6 +1,6 @@
 # Keras-learning
 
-##Deep Learning: Keras Short Tutorial(https://www.youtube.com/watch?v=Tp3SaRbql4k)
+##Deep Learning: Keras Short Tutorial[youtubelink](https://www.youtube.com/watch?v=Tp3SaRbql4k)
 
 #What is Kers?
 
