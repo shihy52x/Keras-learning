@@ -1,7 +1,7 @@
 # Keras-learning
-Deep Learning: Keras Short Tutorial(https://www.youtube.com/watch?v=Tp3SaRbql4k)
-What is Kers?
-Neural Network Library written in Python
+Deep Learning: Keras Short Tutorial(https://www.youtube.com/watch?v=Tp3SaRbql4k)\n
+What is Kers?\n
+Neural Network Library written in Python\n
 Designed to be straightforward yet extensive
 Build on top of either Theano as newly TensorFlow
 Why use Keras
