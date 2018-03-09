@@ -41,3 +41,5 @@ keras.layers.core.Dernse(output_dim.
 - 1D Convolutional layers
 - 2D Convolutional layers
 
+### Autoencoders can build with any other type of layer
+
